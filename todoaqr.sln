@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoaqr.Common", "todoaqr.common\todoaqr.Common.csproj", "{0E8F94FD-68E8-4F33-9323-15E621453872}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoaqr.Common", "todoaqr.common\todoaqr.Common.csproj", "{0E8F94FD-68E8-4F33-9323-15E621453872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoaqr.Functions", "todoaqr.Functions\todoaqr.Functions.csproj", "{62313B60-B02F-4FA1-8C11-DD9577C77EF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoaqr.Functions", "todoaqr.Functions\todoaqr.Functions.csproj", "{62313B60-B02F-4FA1-8C11-DD9577C77EF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoaqr.Test", "todoaqr.Test\todoaqr.Test.csproj", "{14E1B5B4-9A8B-4739-9C8D-17EE888AF1F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todoaqr.Test", "todoaqr.Test\todoaqr.Test.csproj", "{14E1B5B4-9A8B-4739-9C8D-17EE888AF1F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
